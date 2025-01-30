@@ -1,2 +1,50 @@
 
 /* Your CSS Code here. */
+body {
+  background-color: #121212;
+  color: white;
+  text-align: left;
+}
+
+header {
+  background-color: #1f1f1f;
+  padding: 20px;
+  text-align:center;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align:center;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin:10px;
+}
+
+nav ul li a {
+  color: #1db954;
+  text-decoration: none;
+}
+
+section {
+  margin: 20px;
+}
+
+aside {
+  background-color: #1f1f1f;
+  padding: 20px;
+  margin: 20px;
+  text-align:center;
+}
+
+footer {
+  background-color: #333;
+  padding: 10px;
+  color: #1db954;
+}
